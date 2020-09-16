@@ -1,0 +1,11 @@
+{
+  "name": "website-analytics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chrome-launcher": "^0.13.4",
+    "lighthouse": "^6.3.0",
+    "nodemon": "^2.0.4"
+  }
+}
